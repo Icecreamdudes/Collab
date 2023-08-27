@@ -1,7 +1,7 @@
 const modInfo = {
-    name: "The ??? Tree",
-    id: "mymod",
-    author: "nobody",
+    name: "The Collab Tree",
+    id: "collabtree",
+    author: "Several Mod Creators",
     pointsName: "points",
     modFiles: ["cheese.js", "tree.js"],
     discordName: "",
@@ -13,7 +13,7 @@ const modInfo = {
 // Set your version in num and name
 let VERSION = {
     num: "0.0",
-    name: "Literally nothing"
+    name: "Goofy Ahh Collab"
 };
 
 const changelog = `<h1>Changelog:</h1><br>
